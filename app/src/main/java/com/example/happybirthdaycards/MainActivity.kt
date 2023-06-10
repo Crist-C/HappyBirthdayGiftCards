@@ -82,7 +82,7 @@ fun BirthdayGreetingWithImage(message: String, nameFrom: String, modifier: Modif
 fun BirthdayGreetingPreview() {
     HappyBirthdayCardsTheme {
         BirthdayGreetingWithImage(
-            message = "Have a Happy Birthday", nameFrom = " - from Cristian", nameTo = "Fanny"
+            message = "Happy Birthday", nameFrom = " - from Cristian", nameTo = "Fanny"
         )
     }
 }
